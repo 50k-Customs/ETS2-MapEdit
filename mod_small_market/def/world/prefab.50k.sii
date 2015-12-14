@@ -8,7 +8,7 @@ SiiNunit
 # Warning: Even if the units are specified in more than one source file, they share the
 # same namespace so suffixes or prefixes should be used to avoid conflicts.
 
-prefab_model : prefab.50k.0 {
+prefab_model : prefab.50k_0 {
 	model_desc: "/prefab/50k_small_market/small_market.pmd"
 	prefab_desc: "/prefab/50k_small_market/small_market.ppd"
 	use_perlin: false
