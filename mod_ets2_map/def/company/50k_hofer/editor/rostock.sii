@@ -1,0 +1,7 @@
+SiiNunit
+{
+company_def : .rostock {
+ city: rostock
+ prefab: 50k_0
+}
+}

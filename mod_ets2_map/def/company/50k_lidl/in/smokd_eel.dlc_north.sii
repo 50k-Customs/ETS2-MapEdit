@@ -1,0 +1,6 @@
+SiiNunit
+{
+cargo_def : .smokd_eel {
+ cargo: "cargo.smokd_eel"
+}
+}

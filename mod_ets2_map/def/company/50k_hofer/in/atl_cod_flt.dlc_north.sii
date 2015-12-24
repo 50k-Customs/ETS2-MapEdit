@@ -1,0 +1,6 @@
+SiiNunit
+{
+cargo_def : .atl_cod_flt {
+ cargo: "cargo.atl_cod_flt"
+}
+}

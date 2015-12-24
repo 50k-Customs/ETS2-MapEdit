@@ -1,0 +1,5 @@
+company_permanent: company.permanent.lidl
+{
+	name: "Lidl"
+	trailer_look: plain
+}

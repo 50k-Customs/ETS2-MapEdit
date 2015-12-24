@@ -1,0 +1,6 @@
+SiiNunit
+{
+cargo_def : .ketchup {
+ cargo: "cargo.ketchup"
+}
+}

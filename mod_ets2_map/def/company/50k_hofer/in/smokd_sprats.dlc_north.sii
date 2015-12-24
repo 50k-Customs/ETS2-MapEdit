@@ -1,0 +1,6 @@
+SiiNunit
+{
+cargo_def : .smokd_sprats {
+ cargo: "cargo.smokd_sprats"
+}
+}

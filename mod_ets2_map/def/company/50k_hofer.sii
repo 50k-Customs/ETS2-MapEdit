@@ -1,0 +1,5 @@
+company_permanent: company.permanent.50k_hofer
+{
+	name: "Hofer"
+	trailer_look: plain
+}

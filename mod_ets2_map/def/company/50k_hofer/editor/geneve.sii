@@ -1,0 +1,7 @@
+SiiNunit
+{
+company_def : .geneve {
+ city: geneve
+ prefab: 50k_0
+}
+}

@@ -1,0 +1,7 @@
+SiiNunit
+{
+company_def : .klagenfurt {
+ city: klagenfurt
+ prefab: 50k_0
+}
+}

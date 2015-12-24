@@ -1,0 +1,6 @@
+SiiNunit
+{
+cargo_def : .canned_beans {
+ cargo: "cargo.canned_beans"
+}
+}

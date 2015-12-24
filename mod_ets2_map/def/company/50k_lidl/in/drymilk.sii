@@ -1,0 +1,6 @@
+SiiNunit
+{
+cargo_def : .drymilk {
+ cargo: "cargo.drymilk"
+}
+}

@@ -1,0 +1,6 @@
+SiiNunit
+{
+cargo_def : .tyres {
+ cargo: "cargo.tyres"
+}
+}
