@@ -6,7 +6,7 @@ This repository is a bit different than other 50k-customs repositories, as it fe
 ### CONTENTS
 1. **"base"** folder where all existing ETS2 resources are saved only for proper loading in BT and 
 thus don't need to be packed into final mod at all;
-2. **"mod_ets2_map"** folder used as mod base of ETS2-MapEdit
+2. **"mod_map"** folder used as mod base of ETS2-MapEdit
 2. **"mod_small_market"** folder used as additional mod base of "Small Market" prefab which has only 1 unloading point, moreover
 it's layout matches boundaries of vanilla "Sellplan" prefab from ETS2 and can be packed into a mod separately.
 
@@ -25,7 +25,7 @@ Most recent direct ETS2-MapEdit mod download and all needed info can be found he
   1. Convert map with all dependencies:
   
     ```
-    <map_edit_folder>/mod_ets2_map
+    <map_edit_folder>/mod_map
     <map_edit_folder>/mod_small_market
     ```
   2. Convert only Small Market prefab:
