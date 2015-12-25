@@ -86,7 +86,7 @@ Look {
         Attribute {
             Format: FLOAT3
             Tag: "specular"
-            Value: ( 1.0 1.0 1.0 )
+            Value: ( 0.5 0.5 0.5 )
         }
         Attribute {
             Format: FLOAT
@@ -433,7 +433,7 @@ Look {
         Attribute {
             Format: FLOAT3
             Tag: "specular"
-            Value: ( 1.0 1.0 1.0 )
+            Value: ( 0.5 0.5 0.5 )
         }
         Attribute {
             Format: FLOAT
