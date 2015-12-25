@@ -2,6 +2,8 @@
 This is ETS2 map mod created by 50k, which will include rework of base map with various new prefabs etc.
 This repository is a bit different than other 50k-customs repositories, as it features multiple targets/mods.
 
+![](/preview/release_1_0.png?raw=true "Promo 1.0")
+
 
 ### CONTENTS
 1. **"base"** folder where all existing ETS2 resources are saved only for proper loading in BT and 
