@@ -1,10 +1,12 @@
 Vanilla Map Edit by 50k featuring:
 
-- new company prefab with AI traffic included, replacing Sellplan company around the map
+- new company prefab with AI traffic included, replacing:
+  - Sellplan company for Hofer on base and dlc_east map
+  - Kaarfor company for Lidl on base and dlc_east map
 
 ### CHANGELOG FOR LATEST VERSION
 
-- initial release
+- Kaarfor replaced by Lidl
 
 ### CREDITS
 
