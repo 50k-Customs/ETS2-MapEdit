@@ -110,7 +110,7 @@ Look {
     }
     Material {
         Alias: "lines.dif"
-        Effect: "eut2.dif.spec"
+        Effect: "eut2.dif.spec.a.decal.over"
         Flags: 0
         AttributeCount: 5
         TextureCount: 1
@@ -122,7 +122,7 @@ Look {
         Attribute {
             Format: FLOAT3
             Tag: "specular"
-            Value: ( 1.0 1.0 1.0 )
+            Value: ( 0.438541054725647 0.438541054725647 0.438541054725647 )
         }
         Attribute {
             Format: FLOAT
@@ -238,7 +238,7 @@ Look {
     }
     Material {
         Alias: "lidl.dif_lum"
-        Effect: "eut2.dif.lum.a.over"
+        Effect: "eut2.dif.lum"
         Flags: 0
         AttributeCount: 5
         TextureCount: 1
@@ -585,7 +585,7 @@ Look {
     }
     Material {
         Alias: "lidl.dif_lum"
-        Effect: "eut2.dif.lum.a.over"
+        Effect: "eut2.dif.lum"
         Flags: 0
         AttributeCount: 5
         TextureCount: 1
