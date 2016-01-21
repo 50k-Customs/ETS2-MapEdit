@@ -9,6 +9,7 @@ Vanilla Map Edit by 50k featuring:
 - map fixes, added missing sectors
 - improved small market prefab textures for both Lidl&Hofer
 - added a lot of ground decals including arrows and stains
+- added pedestrians
 
 ### CREDITS
 
