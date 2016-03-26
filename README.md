@@ -20,7 +20,7 @@ Most recent direct ETS2-MapEdit mod download and all needed info can be found he
 
 ***For advanced usage, step by step:***
 
-1. Download [Asset Conversion Tools](http://eurotrucksimulator2.com/conversion_tools.php#what-are-conversion-tools) and unpack them to **\<folder_tools>**
+1. Download [Conversion Tools](http://modding.scssoft.com/wiki/Documentation/Tools/Conversion_Tools) and unpack them to **\<folder_tools>**
 2. Download this repository by clicking Download ZIP on the right/top site of web page and unpack it to **\<map_edit_folder>**
 3. Open file **\<folder_tools>/conversion_tools/extra_mount.txt** and add paths depending on your needs:
   
